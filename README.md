@@ -9,14 +9,14 @@
 ### Ход выполнения
 
 #### Изображения
-!(./pics/log_bash.png)
+![pic_1](./pics/log_bash.png)
 Рисунок 1 - Скриншот истории операций из каждой ветви
 
-!(./pics/log_pretty.png)
+![pic_2](./pics/log_pretty.png)
 Рисунок 2 - Скриншот форматированой истории операций
 
 #### Лог комманд
-'''
+'''bash
    40  git clone https://github.com/keltuzed/LR6
    41  git pull origin
    42  git pull origin master
